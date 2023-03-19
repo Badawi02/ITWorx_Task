@@ -1,7 +1,7 @@
 # It_worx_Task
 
 <p align="center">
- <img src=""/>
+ <img src="https://github.com/Badawi02/ITWorx_Task/blob/feature/simple-web/ScreenShots/0.png"/>
 </p>
 
 ## Tools Used
@@ -28,7 +28,7 @@
 ```
 - Enter your AWS account credentials at file : terraform.tfvars
 <p align="center">
- <img src=""/>
+ <img src="https://github.com/Badawi02/ITWorx_Task/blob/feature/simple-web/ScreenShots/1.png"/>
 </p>
 
 
@@ -44,7 +44,7 @@
 ```
 - Output :
 <p align="center">
- <img src=""/>
+ <img src="https://github.com/Badawi02/ITWorx_Task/blob/feature/simple-web/ScreenShots/2.png"/>
 </p>
 
 
@@ -58,7 +58,7 @@ Now you can check your AWS account, you can see this resources has been created:
 You can hit EC2 from public ip of it
 - Output :
 <p align="center">
- <img src=""/>
+ <img src="https://github.com/Badawi02/ITWorx_Task/blob/feature/simple-web/ScreenShots/3.png"/>
 </p>
 
 You can destroy the infrastructure and delete all resources created from my code 
