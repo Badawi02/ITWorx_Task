@@ -26,6 +26,12 @@
 ```bash
   git clone https://github.com/Badawi02/ITWorx_Task.git
 ```
+```bash
+  git checkout -b feature/simple-web
+```
+```bash
+  git pull origin feature/simple-web
+```
 - Enter your AWS account credentials at file : terraform.tfvars
 <p align="center">
  <img src="https://github.com/Badawi02/ITWorx_Task/blob/feature/simple-web/ScreenShots/1.png"/>
