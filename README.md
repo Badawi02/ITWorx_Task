@@ -1,4 +1,3 @@
-# It_worx_Task
 
 <p align="center">
  <img src="https://github.com/Badawi02/ITWorx_Task/blob/feature/simple-web/ScreenShots/0.png"/>
